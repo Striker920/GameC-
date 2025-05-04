@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QaMdGhcJ+yE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chert\\source\\repos\\GameUrfuFinal2\\GameUrfuFinal\\GameUrfu\\GameUrfu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chert\\.nuget\\packages\\mstest.analyzers\\3.8.3\\mstest.analyzers.3.8.3.nupkg.sha512",
+    "C:\\Users\\chert\\.nuget\\packages\\mstest.testframework\\3.8.3\\mstest.testframework.3.8.3.nupkg.sha512"
+  ],
+  "logs": []
+}
