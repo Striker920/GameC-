@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\chert\\source\\repos\\GameUrfuTest\\GameUrfu1\\GameUrfu\\GameUrfu\\BeaconGame.Tests\\BeaconGame.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\chert\\source\\repos\\GameUrfuTest\\GameUrfu1\\GameUrfu\\GameUrfu\\BeaconGame.Tests\\BeaconGame.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chert\\source\\repos\\GameUrfuTest\\GameUrfu1\\GameUrfu\\GameUrfu\\BeaconGame.Tests\\BeaconGame.Tests.csproj",
+        "projectName": "BeaconGame.Tests",
+        "projectPath": "C:\\Users\\chert\\source\\repos\\GameUrfuTest\\GameUrfu1\\GameUrfu\\GameUrfu\\BeaconGame.Tests\\BeaconGame.Tests.csproj",
+        "packagesPath": "C:\\Users\\chert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chert\\source\\repos\\GameUrfuTest\\GameUrfu1\\GameUrfu\\GameUrfu\\BeaconGame.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\chert\\source\\repos\\GameUrfuTest\\GameUrfu1\\GameUrfu\\GameUrfu\\GameUrfu\\GameUrfu.csproj": {
+                "projectPath": "C:\\Users\\chert\\source\\repos\\GameUrfuTest\\GameUrfu1\\GameUrfu\\GameUrfu\\GameUrfu\\GameUrfu.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chert\\source\\repos\\GameUrfuTest\\GameUrfu1\\GameUrfu\\GameUrfu\\GameUrfu\\GameUrfu.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chert\\source\\repos\\GameUrfuTest\\GameUrfu1\\GameUrfu\\GameUrfu\\GameUrfu\\GameUrfu.csproj",
+        "projectName": "GameUrfu",
+        "projectPath": "C:\\Users\\chert\\source\\repos\\GameUrfuTest\\GameUrfu1\\GameUrfu\\GameUrfu\\GameUrfu\\GameUrfu.csproj",
+        "packagesPath": "C:\\Users\\chert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chert\\source\\repos\\GameUrfuTest\\GameUrfu1\\GameUrfu\\GameUrfu\\GameUrfu\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

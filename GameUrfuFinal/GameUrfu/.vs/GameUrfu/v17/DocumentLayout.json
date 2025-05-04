@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chert\\source\\repos\\GameUrfuFinal2\\GameUrfuFinal\\GameUrfu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F44545D8-9C33-28D3-DFCE-6542FBCC57FC}|GameUrfu.csproj|c:\\users\\chert\\source\\repos\\gameurfufinal2\\gameurfufinal\\gameurfu\\texturemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44545D8-9C33-28D3-DFCE-6542FBCC57FC}|GameUrfu.csproj|solutionrelative:texturemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44545D8-9C33-28D3-DFCE-6542FBCC57FC}|GameUrfu.csproj|c:\\users\\chert\\source\\repos\\gameurfufinal2\\gameurfufinal\\gameurfu\\texturegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44545D8-9C33-28D3-DFCE-6542FBCC57FC}|GameUrfu.csproj|solutionrelative:texturegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44545D8-9C33-28D3-DFCE-6542FBCC57FC}|GameUrfu.csproj|c:\\users\\chert\\source\\repos\\gameurfufinal2\\gameurfufinal\\gameurfu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44545D8-9C33-28D3-DFCE-6542FBCC57FC}|GameUrfu.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44545D8-9C33-28D3-DFCE-6542FBCC57FC}|GameUrfu.csproj|c:\\users\\chert\\source\\repos\\gameurfufinal2\\gameurfufinal\\gameurfu\\embeddedtextures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44545D8-9C33-28D3-DFCE-6542FBCC57FC}|GameUrfu.csproj|solutionrelative:embeddedtextures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44545D8-9C33-28D3-DFCE-6542FBCC57FC}|GameUrfu.csproj|c:\\users\\chert\\source\\repos\\gameurfufinal2\\gameurfufinal\\gameurfu\\views\\gameviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44545D8-9C33-28D3-DFCE-6542FBCC57FC}|GameUrfu.csproj|solutionrelative:views\\gameviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44545D8-9C33-28D3-DFCE-6542FBCC57FC}|GameUrfu.csproj|c:\\users\\chert\\source\\repos\\gameurfufinal2\\gameurfufinal\\gameurfu\\views\\gamecanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44545D8-9C33-28D3-DFCE-6542FBCC57FC}|GameUrfu.csproj|solutionrelative:views\\gamecanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44545D8-9C33-28D3-DFCE-6542FBCC57FC}|GameUrfu.csproj|c:\\users\\chert\\source\\repos\\gameurfufinal2\\gameurfufinal\\gameurfu\\models\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44545D8-9C33-28D3-DFCE-6542FBCC57FC}|GameUrfu.csproj|solutionrelative:models\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44545D8-9C33-28D3-DFCE-6542FBCC57FC}|GameUrfu.csproj|c:\\users\\chert\\source\\repos\\gameurfufinal2\\gameurfufinal\\gameurfu\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44545D8-9C33-28D3-DFCE-6542FBCC57FC}|GameUrfu.csproj|solutionrelative:controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\chert\\source\\repos\\GameUrfuFinal2\\GameUrfuFinal\\GameUrfu\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\chert\\source\\repos\\GameUrfuFinal2\\GameUrfuFinal\\GameUrfu\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Controllers\\GameController.cs",
+              "ViewState": "AgIAAE4CAAAAAAAAAAAAAEICAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:29:25.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "C:\\Users\\chert\\source\\repos\\GameUrfuFinal2\\GameUrfuFinal\\GameUrfu\\Models\\GameModel.cs",
+              "RelativeDocumentMoniker": "Models\\GameModel.cs",
+              "ToolTip": "C:\\Users\\chert\\source\\repos\\GameUrfuFinal2\\GameUrfuFinal\\GameUrfu\\Models\\GameModel.cs",
+              "RelativeToolTip": "Models\\GameModel.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:28:47.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameViews.cs",
+              "DocumentMoniker": "C:\\Users\\chert\\source\\repos\\GameUrfuFinal2\\GameUrfuFinal\\GameUrfu\\Views\\GameViews.cs",
+              "RelativeDocumentMoniker": "Views\\GameViews.cs",
+              "ToolTip": "C:\\Users\\chert\\source\\repos\\GameUrfuFinal2\\GameUrfuFinal\\GameUrfu\\Views\\GameViews.cs",
+              "RelativeToolTip": "Views\\GameViews.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAmwK8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:25:58.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameCanvas.cs",
+              "DocumentMoniker": "C:\\Users\\chert\\source\\repos\\GameUrfuFinal2\\GameUrfuFinal\\GameUrfu\\Views\\GameCanvas.cs",
+              "RelativeDocumentMoniker": "Views\\GameCanvas.cs",
+              "ToolTip": "C:\\Users\\chert\\source\\repos\\GameUrfuFinal2\\GameUrfuFinal\\GameUrfu\\Views\\GameCanvas.cs",
+              "RelativeToolTip": "Views\\GameCanvas.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAowGwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:24:47.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chert\\source\\repos\\GameUrfuFinal2\\GameUrfuFinal\\GameUrfu\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\chert\\source\\repos\\GameUrfuFinal2\\GameUrfuFinal\\GameUrfu\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:20:09.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextureGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\chert\\source\\repos\\GameUrfuFinal2\\GameUrfuFinal\\GameUrfu\\TextureGenerator.cs",
+              "RelativeDocumentMoniker": "TextureGenerator.cs",
+              "ToolTip": "C:\\Users\\chert\\source\\repos\\GameUrfuFinal2\\GameUrfuFinal\\GameUrfu\\TextureGenerator.cs",
+              "RelativeToolTip": "TextureGenerator.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAGYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T09:53:56.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextureManager.cs",
+              "DocumentMoniker": "C:\\Users\\chert\\source\\repos\\GameUrfuFinal2\\GameUrfuFinal\\GameUrfu\\TextureManager.cs",
+              "RelativeDocumentMoniker": "TextureManager.cs",
+              "ToolTip": "C:\\Users\\chert\\source\\repos\\GameUrfuFinal2\\GameUrfuFinal\\GameUrfu\\TextureManager.cs",
+              "RelativeToolTip": "TextureManager.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAIwK0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T09:53:52.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmbeddedTextures.cs",
+              "DocumentMoniker": "C:\\Users\\chert\\source\\repos\\GameUrfuFinal2\\GameUrfuFinal\\GameUrfu\\EmbeddedTextures.cs",
+              "RelativeDocumentMoniker": "EmbeddedTextures.cs",
+              "ToolTip": "C:\\Users\\chert\\source\\repos\\GameUrfuFinal2\\GameUrfuFinal\\GameUrfu\\EmbeddedTextures.cs",
+              "RelativeToolTip": "EmbeddedTextures.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T09:53:51.205Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
